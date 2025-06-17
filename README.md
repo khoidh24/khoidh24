@@ -11,7 +11,7 @@ In the future, I want to become an **All-rounded developer** - When I can unders
 - 🔭 I’m currently working on **Estuary Solutions**
 - ⚡ My current position is **Junior Front-end Developer**
 - 🎓 I graduated from University of Greenwich Vietnam with **Software Engineering Banchelor - Second Class**
-- 🔎 You can contact with me via: **[My personal Email 📬](hoangkhoiduong24@gmail.com)**
+- 🔎 You can contact with me via: hoangkhoiduong24@gmail.com
 
 ## My most used frequency or doing for my position now 📔
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MD](	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
