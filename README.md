@@ -8,7 +8,7 @@ In the future, I aspire to become an **All-rounded developer** — someone who u
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working at **Estuary Solutions**
 - ⚡ My current position is **Junior Front-end Developer**
-- 🎓 I graduated from the **University of Greenwich Vietnam** with a **Bachelor's degree in Software Engineering – Second Class**
+- 🎓 I graduated from the **University of Greenwich Vietnam** with a **Bachelor's degree in Software Engineering**
 - 🔎 You can contact me via: **hoangkhoiduong24@gmail.com**
 
 ## Technologies I use most frequently 📔
