@@ -6,10 +6,10 @@ As a computer enthusiast from a very early age, I’ve always had a strong passi
 In the future, I aspire to become an **All-rounded developer** — someone who understands and controls the architecture of an entire system. With this knowledge, I believe I can provide more efficient, faster, and highly effective solutions.
 
 ## Here are some ideas to get you started:
-- 🔭 I’m currently working at Estuary Solutions
-- ⚡ My current position is Junior Front-end Developer
-- 🎓 I graduated from the University of Greenwich Vietnam with a Bachelor's degree in Software Engineering – Second Class
-- 🔎 You can contact me via: hoangkhoiduong24@gmail.com
+- 🔭 I’m currently working at **Estuary Solutions**
+- ⚡ My current position is **Junior Front-end Developer**
+- 🎓 I graduated from the **University of Greenwich Vietnam** with a **Bachelor's degree in Software Engineering – Second Class**
+- 🔎 You can contact me via: **hoangkhoiduong24@gmail.com**
 
 ## Technologies I use most frequently 📔
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MD](	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
