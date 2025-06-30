@@ -33,7 +33,7 @@ In the future, I aspire to become an **All-rounded developer** — someone who u
 
 ## Additional Information 🌐
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hoangkhoi2406/)
-- 📝 Read more on [My Frontend Journey Blog](https://shorturl.at/L9Tu9)
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/hoangkhoi2406/)**
+- 📝 Read more on **[My Frontend Journey Blog](https://shorturl.at/L9Tu9)**
 - 📧 Reach me via email: **hoangkhoiduong24@gmail.com**
 
