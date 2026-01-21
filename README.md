@@ -11,7 +11,7 @@ In the future, I aspire to become an **All-rounded developer** — someone who u
 - 🔭 I’m currently working at **BIN Corporation Group**
 - ⚡ My current position is **Junior Front-end Developer**
 - 🎓 I graduated from the **University of Greenwich Vietnam** with a **Bachelor's degree in Software Engineering**
-- 🧠 I have **2 years of experience** in Frontend Development
+- 🧠 I have **3 years of experience** in Frontend Engineer
 
 ## Technologies I use most frequently 📔
 
