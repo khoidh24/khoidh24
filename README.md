@@ -1,4 +1,4 @@
-# I am Veinz 🌿
+# I am Veinz 🌱
 
 As a computer enthusiast from a very early age, I’ve always had a strong passion for sitting in front of a screen and creating applications for users. This passion was further reinforced after I completed my university studies and gained exposure to various corporate environments, working alongside highly qualified **Front-end developers** and **UI/UX designers**.
 
