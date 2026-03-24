@@ -8,8 +8,8 @@ In the future, I aspire to become an **All-rounded developer** — someone who u
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working at **BIN Corporation Group**
-- ⚡ My current position is **Junior Front-end Developer**
+- 🔭 I’m currently working at **My home** - yes! A freelancer
+- ⚡ My current position is **Fullstack Developer**
 - 🎓 I graduated from the **University of Greenwich Vietnam** with a **Bachelor's degree in Software Engineering**
 - 🧠 I have **3 years of experience** in Frontend Engineer
 
