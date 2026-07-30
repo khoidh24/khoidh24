@@ -34,4 +34,4 @@ In the future, I aspire to become an **All-rounded developer** — someone who u
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/hoangkhoi2406/)**
 - 📝 Read more on **[My Frontend Journey Blog](https://portfolio.veinz.blog/articles)**
 - 📧 Reach me via email: **hoangkhoiduong24@gmail.com**
-- 🌐 My website: **[Veinz - Portfolio](https://portfolio.veinz.blog/)**
+- 🌐 My website: **[Veinz - Portfolio](https://hoangkhoi.work/)**
